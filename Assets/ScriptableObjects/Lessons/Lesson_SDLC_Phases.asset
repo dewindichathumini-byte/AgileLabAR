@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b377b8fd145446488f66e66ae5c39fe, type: 3}
+  m_Name: Lesson_SDLC_Phases
+  m_EditorClassIdentifier: Assembly-CSharp::LessonData
+  lessonName: SDLC Phases
+  linkedModule: Software Engineering
+  learningObjective: Explain the six phases of the SDLC in order.
+  codeLines:
+  - 'Phase 1: Planning'
+  - 'Phase 2: Requirements Analysis'
+  - 'Phase 3: Design'
+  - 'Phase 4: Implementation'
+  - 'Phase 5: Testing'
+  - 'Phase 6: Maintenance'
+  steps:
+  - {fileID: 11400000, guid: dfa9393487c99974b801b38e6f46eb25, type: 2}
+  - {fileID: 11400000, guid: 557e8d6ed991c2c4dbcc30b6fad4ef5c, type: 2}
+  - {fileID: 11400000, guid: df6b0c9924ba85a45a1c6ab0b9c327cd, type: 2}
+  - {fileID: 11400000, guid: cdf120e60b741344fb8ab57ced3de446, type: 2}
+  - {fileID: 11400000, guid: 50cdf87847de82d41b65a536d41aaa2d, type: 2}
+  - {fileID: 11400000, guid: 98dcf60ff957b7c41982d54c62901e66, type: 2}
+  modelPrefab: {fileID: 191922602469483938, guid: 9d28316474a678348b19ed27f3bb07b7, type: 3}
