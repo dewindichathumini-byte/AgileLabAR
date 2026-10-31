@@ -22,4 +22,3 @@ public class LessonData : ScriptableObject
     [Header("3D content")]
     public GameObject modelPrefab;
 }
-

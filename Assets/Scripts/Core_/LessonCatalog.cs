@@ -1,16 +1,7 @@
 using UnityEngine;
 
-public class LessonCatalog : MonoBehaviour
+[CreateAssetMenu(menuName = "AgileLab/Lesson Catalog")]
+public class LessonCatalog : ScriptableObject
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public LessonData[] lessons;
 }
