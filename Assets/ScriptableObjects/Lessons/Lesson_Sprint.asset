@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b377b8fd145446488f66e66ae5c39fe, type: 3}
   m_Name: Lesson_Sprint
   m_EditorClassIdentifier: Assembly-CSharp::LessonData
-  lessonName: 
+  lessonName: Sprint Board Challenge
   linkedModule: Software Engineering
-  learningObjective: 
-  extra: 0
+  learningObjective: Apply board states by placing user stories in the correct column.
+  extra: 3
   codeLines: []
   steps: []
-  modelPrefab: {fileID: 0}
+  modelPrefab: {fileID: 6968827672541358873, guid: 8a18987573d9ece45ba3eeb895c9cd18, type: 3}

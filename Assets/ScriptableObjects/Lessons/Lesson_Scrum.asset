@@ -12,10 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b377b8fd145446488f66e66ae5c39fe, type: 3}
   m_Name: Lesson_Scrum
   m_EditorClassIdentifier: Assembly-CSharp::LessonData
-  lessonName: 
+  lessonName: Scrum Framework
   linkedModule: Software Engineering
-  learningObjective: 
-  extra: 0
-  codeLines: []
-  steps: []
-  modelPrefab: {fileID: 0}
+  learningObjective: Describe the roles, events and artifacts of Scrum.
+  extra: 2
+  codeLines:
+  - 'Roles: Product Owner, Scrum Master, Developers'
+  - 'Events: Planning, Daily Scrum, Review, Retrospective'
+  - 'Artifacts: Product Backlog, Sprint Backlog, Increment'
+  - 'Sprint: 1-4 weeks, then repeat'
+  steps:
+  - {fileID: 11400000, guid: 35dbb4aa92717014d9272a057501f6b8, type: 2}
+  - {fileID: 11400000, guid: 70b8aa5f654ea5044a916fa453f9b0e6, type: 2}
+  - {fileID: 11400000, guid: 27d86c315f0d4fa40a3d05758d768d02, type: 2}
+  - {fileID: 11400000, guid: 63361711d19480e4e870db741e779f74, type: 2}
+  modelPrefab: {fileID: 1706752980060588361, guid: 502232ca92daa8d4c97678f8389c617a, type: 3}

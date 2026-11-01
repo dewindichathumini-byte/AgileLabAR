@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efb4bdf98916e10419e78c64281f1b0a, type: 3}
   m_Name: Scrum_Step2
   m_EditorClassIdentifier: Assembly-CSharp::StepData
-  title: 
-  description: 
+  title: "Events\t"
+  description: Sprint Planning, Daily Scrum, Sprint Review and Retrospective structure every sprint.
   narration: {fileID: 0}
   animationTrigger: 
-  highlightLine: -1
+  highlightLine: 1

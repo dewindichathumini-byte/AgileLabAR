@@ -12,4 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f81098018b36ad1488b6af81a1ce8ff6, type: 3}
   m_Name: LessonCatalog
   m_EditorClassIdentifier: Assembly-CSharp::LessonCatalog
-  lessons: []
+  lessons:
+  - {fileID: 11400000, guid: d7a19a0374021914a9ab91c83b77955c, type: 2}
+  - {fileID: 11400000, guid: 44b0178177f658d49b98084750e0b626, type: 2}
+  - {fileID: 11400000, guid: 4b92ca9746282444d970afa03a4d3351, type: 2}
+  - {fileID: 11400000, guid: 838a84135740cce4c8bd0a7fe742d8fb, type: 2}
+  - {fileID: 11400000, guid: 5fa5b40fda19fde49958ec201954c01d, type: 2}

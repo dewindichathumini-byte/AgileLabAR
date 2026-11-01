@@ -12,10 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b377b8fd145446488f66e66ae5c39fe, type: 3}
   m_Name: Lesson_CICD
   m_EditorClassIdentifier: Assembly-CSharp::LessonData
-  lessonName: 
+  lessonName: CI/CD Pipeline
   linkedModule: Software Engineering
-  learningObjective: 
+  learningObjective: Trace a commit through a CI/CD pipeline.
   extra: 0
-  codeLines: []
-  steps: []
-  modelPrefab: {fileID: 0}
+  codeLines:
+  - 'on: push'
+  - 'jobs:'
+  - '  build:'
+  - '    - checkout code'
+  - '    - build app'
+  - '  test:'
+  - '    - run unit tests'
+  - '  deploy:'
+  - '    - release to staging'
+  - '    - release to production'
+  steps:
+  - {fileID: 11400000, guid: 482ff7410cee3624f954ca7f7b294581, type: 2}
+  - {fileID: 11400000, guid: bbf8470dc4ecf1e4c83a66f7a5d8d93e, type: 2}
+  - {fileID: 11400000, guid: c9a89e93da111474f9b77fff8b9a6910, type: 2}
+  - {fileID: 11400000, guid: 7b6f87745ab2b0b43855987d5c9fc34d, type: 2}
+  - {fileID: 11400000, guid: 8928ce474433cd647947983ec153c90a, type: 2}
+  modelPrefab: {fileID: 6185313285371524087, guid: 7e9facc3c26f2554a870a75f4a125a7d, type: 3}

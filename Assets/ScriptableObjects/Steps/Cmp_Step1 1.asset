@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efb4bdf98916e10419e78c64281f1b0a, type: 3}
   m_Name: Cmp_Step1 1
   m_EditorClassIdentifier: Assembly-CSharp::StepData
-  title: 
+  title: 'Waterfall: plan first'
   description: 
   narration: {fileID: 0}
   animationTrigger: 

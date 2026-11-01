@@ -12,10 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b377b8fd145446488f66e66ae5c39fe, type: 3}
   m_Name: Lesson_Compare
   m_EditorClassIdentifier: Assembly-CSharp::LessonData
-  lessonName: 
+  lessonName: Waterfall vs Agile
   linkedModule: Software Engineering
-  learningObjective: 
-  extra: 0
-  codeLines: []
-  steps: []
-  modelPrefab: {fileID: 0}
+  learningObjective: Compare how Waterfall and Agile handle changing requirements
+  extra: 1
+  codeLines:
+  - 'Waterfall: plan everything up front'
+  - 'Waterfall: late change = big rework'
+  - 'Agile: plan and build in short sprints'
+  - 'Agile: change early = small adjustment'
+  steps:
+  - {fileID: 11400000, guid: c499e77c76c58524b9b3a0742771d6b1, type: 2}
+  - {fileID: 11400000, guid: 3cd0d66ac3682894195736e813813f53, type: 2}
+  - {fileID: 11400000, guid: 82bba6023a3962d48be2c3902350e731, type: 2}
+  - {fileID: 11400000, guid: aeaa1e35455a5f84d9f7b8b60bfec4ce, type: 2}
+  modelPrefab: {fileID: 4758298332370401691, guid: d1ad781305509c449b4df5f12532f77b, type: 3}

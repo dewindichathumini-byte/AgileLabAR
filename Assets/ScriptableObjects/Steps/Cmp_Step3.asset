@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efb4bdf98916e10419e78c64281f1b0a, type: 3}
   m_Name: Cmp_Step3
   m_EditorClassIdentifier: Assembly-CSharp::StepData
-  title: 
-  description: 
+  title: 'Agile: short sprints'
+  description: Agile delivers small increments and gets feedback every sprint.
   narration: {fileID: 0}
   animationTrigger: 
-  highlightLine: -1
+  highlightLine: 2
