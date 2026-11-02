@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bc25e089378ad24e9121cc6445af79a, type: 3}
+  m_Name: Q02_pre
+  m_EditorClassIdentifier: Assembly-CSharp::QuestionData
+  question: What is the main purpose of the Planning phase?
+  options:
+  - Fixing bugs in production
+  - Deciding scope, budget, schedule and feasibility
+  - Writing unit tests
+  - Deploying the release
+  correctIndex: 1
+  feedback: Planning decides what will be built, with what resources and by when.
+  usedInPreQuiz: 1

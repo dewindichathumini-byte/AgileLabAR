@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f44da85327f0d544acb29cd152d18b1, type: 3}
+  m_Name: QuestionBank
+  m_EditorClassIdentifier: Assembly-CSharp::QuestionBank
+  preQuestions:
+  - {fileID: 11400000, guid: b6c98e2fdda4cfc42bc64be0708b0ba7, type: 2}
+  - {fileID: 11400000, guid: 5956ca1424b32a841bcd5386674b68bd, type: 2}
+  - {fileID: 11400000, guid: b4c4102178514e74480774fb5b1750e4, type: 2}
+  - {fileID: 11400000, guid: f812a8c76bc494a4fa920f99228ca5ef, type: 2}
+  - {fileID: 11400000, guid: fe703b19e065eea43b9aa9702651ef6c, type: 2}
+  - {fileID: 11400000, guid: a88c3c86b346b2b44a5ead34b5d05e08, type: 2}
+  - {fileID: 11400000, guid: 71d97c3dd3d4fc8409463e44460ca09a, type: 2}
+  - {fileID: 11400000, guid: 0e503e41e65b5f8448ce80f22c714d4e, type: 2}
+  - {fileID: 11400000, guid: edb12be32e5f186418232d832de5d50c, type: 2}
+  - {fileID: 11400000, guid: 9b99a3544f84ace4cae8b54c6d2f5001, type: 2}
+  postQuestions:
+  - {fileID: 11400000, guid: 09ddede96b1b22b419a06bf0b73989cb, type: 2}
+  - {fileID: 11400000, guid: ac645b1928c8b77418c9e252b64c364a, type: 2}
+  - {fileID: 11400000, guid: e5826c0bf18cf26469a7ab77882b71d2, type: 2}
+  - {fileID: 11400000, guid: 42b85143d35abc84b89028eaac50413a, type: 2}
+  - {fileID: 11400000, guid: f06edaeb0d0018b40bdb2b7e824eaff5, type: 2}
+  - {fileID: 11400000, guid: 710943029af20814baf2f37971bfa717, type: 2}
+  - {fileID: 11400000, guid: de127a9134f022440b917a197db7e111, type: 2}
+  - {fileID: 11400000, guid: fe8f2bd31dec3f846813ba9a546ef7a4, type: 2}
+  - {fileID: 11400000, guid: 8ef85a43db241d34281182622ae89b64, type: 2}
+  - {fileID: 11400000, guid: d56144e6cb70aaa41871603cada0c5c9, type: 2}
+  finalQuestions:
+  - {fileID: 11400000, guid: 93560bab7e119c84e9859c8deb790c51, type: 2}
+  - {fileID: 11400000, guid: dcc11e01fbceaa14488fbb3236b3da47, type: 2}
+  - {fileID: 11400000, guid: f77199688573b6444ab9425ef3c76b38, type: 2}
+  - {fileID: 11400000, guid: a9b82e803183ab54098300c78dd794d4, type: 2}
+  - {fileID: 11400000, guid: c43a12e0d0e36cd4c8d647ef4c87677f, type: 2}
+  - {fileID: 11400000, guid: dd8856491359b8b4f95d50e3d4b8bc7c, type: 2}

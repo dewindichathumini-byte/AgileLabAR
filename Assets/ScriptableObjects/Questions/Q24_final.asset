@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bc25e089378ad24e9121cc6445af79a, type: 3}
+  m_Name: Q24_final
+  m_EditorClassIdentifier: Assembly-CSharp::QuestionData
+  question: In Sprint 3 the team finds that a key requirement was misunderstood. What is the Agile response?
+  options:
+  - Ignore it until the project ends
+  - Update the Product Backlog and adjust in the next Sprint
+  - Restart the whole project
+  - Blame the Product Owner
+  correctIndex: 1
+  feedback: 'Agile welcomes change: the backlog is updated and the next Sprint adapts.'
+  usedInPreQuiz: 0

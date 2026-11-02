@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bc25e089378ad24e9121cc6445af79a, type: 3}
+  m_Name: Q12_post
+  m_EditorClassIdentifier: Assembly-CSharp::QuestionData
+  question: Which activity belongs to the Testing phase?
+  options:
+  - Choosing the budget
+  - Verifying the software against requirements and finding defects
+  - Writing the vision statement
+  - Training the sales team
+  correctIndex: 1
+  feedback: Testing checks that the software meets the requirements and finds defects.
+  usedInPreQuiz: 0

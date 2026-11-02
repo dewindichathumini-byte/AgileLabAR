@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bc25e089378ad24e9121cc6445af79a, type: 3}
+  m_Name: Q13_post
+  m_EditorClassIdentifier: Assembly-CSharp::QuestionData
+  question: A system has fixed, well-understood regulatory requirements. Which model fits well?
+  options:
+  - Waterfall
+  - Pure ad-hoc coding
+  - Skipping testing
+  - Changing scope daily
+  correctIndex: 0
+  feedback: Stable and well-understood requirements suit a plan-driven approach such as Waterfall.
+  usedInPreQuiz: 0
